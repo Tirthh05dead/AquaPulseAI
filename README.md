@@ -103,6 +103,11 @@ Research Paper → Prototype
 
 Developed as part of a sustainability and climate-tech innovation project.
 
+### Team Members
+- Tirth Sheth
+- Aireen Pathan
+- Priyank Sathawara
+
 ---
 
 ### AquaPulse AI
